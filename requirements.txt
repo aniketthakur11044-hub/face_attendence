@@ -5,3 +5,5 @@ facenet-pytorch
 opencv-python
 numpy
 pandas
+datetime
+face_utils
